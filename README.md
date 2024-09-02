@@ -127,6 +127,12 @@ A collection of Forge mods for Minecraft 1.19.2, Forge 43.4.2
 | ZeroCore                              |                                             | `rHpb85Mf` | MR       | 2.1.39          |
 | Extreme Reactors                      | Patchouli, ZeroCore                         | `idkvShUy` | MR       | 2.0.71          |
 | Immersive Petroleum                   | Immersive Engineering                       | `268250`   | CF       | 4.2.0-29        |
+| Blåhaj - Reforged                     |                                             | `YwSNgyAk` | MR       | 0.1.2           |
+| Ascended Quark                        | Quark, The Aether                           | `SqIC1Dq9` | MR       | 1.0.2           |
+| Yuushya Townscape                     |                                             | `lfVtagkm` | MR       | 2.1.1           |
+| Effective (Forge)                     |                                             | `557796`   | CF       | 1.3.4           |
+| Create: Vintage Improvements          | Create                                      | `S27aYArf` | MR       | 0.2.0.3         |
+| Create Big Cannons                    | Create                                      | `GWp4jCJj` | MR       | 5.5.1           |
 
 ## Known Incompatibles 
 A list of mods I've tried, and found to not work. Some I may to attempt to get working in the future
@@ -257,4 +263,10 @@ fzSKSXVK
 rHpb85Mf 
 idkvShUy 
 268250 
+YwSNgyAk 
+SqIC1Dq9 
+lfVtagkm 
+557796 
+S27aYArf 
+GWp4jCJj 
 ```
