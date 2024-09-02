@@ -39,7 +39,7 @@ A collection of Forge mods for Minecraft 1.19.2, Forge 43.4.2
 | Pam's Harvest Craft 2 Crops           | Pam's H.C. 2 Food Core                      | `361385`   | CF       | 1.0.2           |
 | Tinkers' Reforged                     | Tinkers' Construct                          | `cj8IZDhP` | MR       | 2.1.6           |
 | Embeddium (Rubidium) Extra            | Embeddium                                   | `oY2B1pjg` | MR       | 0.4.19          |
-| Xaero's Minimap                       |                                             | `1bokaNcj` | MR       | 24.3.0          |
+| Xaero's Minimap                       |                                             | `1bokaNcj` | MR       | 24.4.0          |
 | AutoRegLib                            |                                             | `NvZ9ZhwE` | MR       | 1.8.2-55        |
 | Quark                                 | AutoRegLib                                  | `qnQsVE2z` | MR       | 3.4-418         |
 | Appleskin                             |                                             | `EsAfCjCV` | MR       | 2.4.2           |
@@ -124,121 +124,135 @@ A collection of Forge mods for Minecraft 1.19.2, Forge 43.4.2
 | Comforts                              |                                             | `SaCpeal4` | MR       | 6.0.7           |
 | Backported Wolves                     |                                             | `yasXoQpR` | MR       | 1.0.3           |
 | Simple Backups                        |                                             | `fzSKSXVK` | MR       | 2.1.10          |
+| ZeroCore                              |                                             | `rHpb85Mf` | MR       | 2.1.39          |
+| Extreme Reactors                      | Patchouli, ZeroCore                         | `idkvShUy` | MR       | 2.0.71          |
 
 ## Known Incompatibles 
 A list of mods I've tried, and found to not work. Some I may to attempt to get working in the future
 * Rubidum (superseeded by Embeddium)
 * Tesseract (unknown)
-* Extreme Reactors (unknown)
 * Forestry: Community Edition (unknown)
 
 ## Known Compatibles
 * Better Foliage (not used because ResourcePacks do a better job)
 
-## The List (just IDs) (not up to date)
+## The List (just IDs, for Ferium)
 ```
-EsAfCjCV 
-XxWD5pD3 
-60028    
-NvZ9ZhwE 
-MBAkmtvl 
-HXF82T3G 
-gu7yAYhd 
-OWSRM4vD 
-ziOp6EO8 
-WrpuIfhw 
-DMu0oBKf 
-LNytGWDc 
-kU1G12Nn 
-gJ5afkVv 
-qO4lsa4Y 
-r4Knci2k 
-ZzjhlDgM 
-vvuO3ImH 
-vdjF5PL5 
-qaO9Dqpu 
-289529   
-562143   
-9paueCZy 
-s0UnCrWE 
-386747   
-839090   
 sk9rgfiA 
-oY2B1pjg 
-tT70rEVv 
-uXXizFIs 
-296686   
+GchcoXML 
+ndHYMY2K
+kkmrDlKT 
+HXF82T3G 
+ziOp6EO8 
 8BmcQJ2H 
-PlkSuVtM 
-tIm2nV03 
-314645   
-ndHYMY2K 
 TbriQCWD 
-xuDOzCLy 
-nvQzSEkH 
-541617   
-ffLYPaWN 
+uE1WpIAk 
+Cg6Uc79H 
+rxIIYO6c 
+YhmgMVyu 
+227639 
+uXXizFIs 
+bTR6zxRo 
+tIm2nV03 
 u6dRKJwZ 
+ffLYPaWN 
+226410 
+XxWD5pD3 
+gu7yAYhd
+ekzqyEZL 
+PlkSuVtM 
+tT70rEVv 
+372534 
+402231 
+365460 
+361385 
+cj8IZDhP 
+oY2B1pjg 
+1bokaNcj 
+NvZ9ZhwE 
+qnQsVE2z 
+EsAfCjCV 
+NcUtCpym 
+541617 
+fNJfw6Ix 
 kB56GtWA 
 uEfK2CXF 
-GURcjz8O 
-4d7eGKIA 
-s4B19O5h 
-kNxa8z3e 
-Tanquv9C 
-YwnqoRu0 
+gJ5afkVv 
+r4Knci2k 
+qO4lsa4Y 
+ZzjhlDgM 
+kU1G12Nn 
+618298 
+422301 
+619320 
+nvQzSEkH 
+xuDOzCLy 
+WrpuIfhw 
+MBAkmtvl 
+DMu0oBKf 
+60028 
+250832 
+vvuO3ImH 
 GmwLse2I 
 dtWC90iB 
-XQ6CZtXV 
-z9puNODX 
+C7I0BCni 
+B8jaH3P1 
+kNxa8z3e 
+VRLhWB91 
+n2fvCDlM 
+GURcjz8O 
 w4an97C2 
 okE6QVAY 
-VRLhWB91 
-B8jaH3P1 
+s4B19O5h 
+Tanquv9C 
+4d7eGKIA 
+XQ6CZtXV 
 5uSvd1Ca 
+z9puNODX 
+YwnqoRu0 
 smN4zlYE 
-n2fvCDlM 
-C7I0BCni 
-Cg6Uc79H 
+296686 
 1Zu0uTEE 
-ekzqyEZL 
-GchcoXML 
-uE1WpIAk 
-250832   
-361385   
-372534   
-402231   
-365460   
-226410   
-qnQsVE2z 
 hIO8IsD8 
-e0IclJLr 
-DQjhR62z 
-N4D9AicU 
-YWbLuPa1 
-tx4M6qRg 
 7n3HbHSE 
-422301   
-618298   
-619320   
-guitPqEi 
-kkmrDlKT 
-YhmgMVyu 
-227639   
+e0IclJLr 
+YWbLuPa1 
+N4D9AicU 
+tx4M6qRg 
+DQjhR62z 
+OWSRM4vD 
+Xvg6q5Wp 
+hmD6rrUJ 
 5beJoehw 
 t8bmWGI2 
-hmD6rrUJ 
-Xvg6q5Wp 
-MNgLmnvM 
 Ro7yiyD4 
 L3eFR8i3 
-cj8IZDhP 
-rxIIYO6c 
 jNa5P8yc 
-fNJfw6Ix 
-bTR6zxRo 
 LOpKHB2A 
-1bokaNcj 
 7mLhyqIY 
-NcUtCpym 
+guitPqEi 
+314645 
+2JAUNCL4 
+rGWEHQrP 
+lhGA9TYQ 
+303557 
+rLLJ1OZM 
+AtB5mHky 
+hg77g4Pw 
+hB899VmG 
+D1lhcTKz 
+PuyPazRT 
+nU0bVIaL 
+HsbpdVo9 
+JmybsfWs 
+ordsPcFz 
+9s6osm5g 
+V5ujR2yw 
+EO8aSHxh 
+tagwiZkJ 
+SaCpeal4 
+yasXoQpR 
+fzSKSXVK 
+rHpb85Mf 
+idkvShUy 
 ```
