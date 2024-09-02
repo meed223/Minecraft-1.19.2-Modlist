@@ -126,6 +126,7 @@ A collection of Forge mods for Minecraft 1.19.2, Forge 43.4.2
 | Simple Backups                        |                                             | `fzSKSXVK` | MR       | 2.1.10          |
 | ZeroCore                              |                                             | `rHpb85Mf` | MR       | 2.1.39          |
 | Extreme Reactors                      | Patchouli, ZeroCore                         | `idkvShUy` | MR       | 2.0.71          |
+| Immersive Petroleum                   | Immersive Engineering                       | `268250`   | CF       | 4.2.0-29        |
 
 ## Known Incompatibles 
 A list of mods I've tried, and found to not work. Some I may to attempt to get working in the future
@@ -255,4 +256,5 @@ yasXoQpR
 fzSKSXVK 
 rHpb85Mf 
 idkvShUy 
+268250 
 ```
