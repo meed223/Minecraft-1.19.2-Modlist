@@ -11,7 +11,7 @@ A collection of Forge mods for Minecraft 1.19.2, Forge 43.4.2
 | ------------------------------------- | ------------------------------------------- | ---------- | -------- | --------------- |
 | Embeddium                             |                                             | `sk9rgfiA` | MR       | 0.6.2c          |
 | Oculus                                | Embeddium                                   | `GchcoXML` | MR       | 1.6.9           |
-| Create                                |                                             | `ndHYMY2K` | MR       | 1.0.3           |
+| Create                                |                                             | `ndHYMY2K` | MR       | 0.5.1f          |
 | TerraBlender                          |                                             | `kkmrDlKT` | MR       | 2.0.1.166       |
 | Biomes O' Plenty                      | TerraBlender                                | `HXF82T3G` | MR       | 17.1.2.492      |
 | CorgiLib                              |                                             | `ziOp6EO8` | MR       | 1.0.0.34        |
@@ -139,6 +139,7 @@ A list of mods I've tried, and found to not work. Some I may to attempt to get w
 * Rubidum (superseeded by Embeddium)
 * Tesseract (unknown)
 * Forestry: Community Edition (unknown)
+* Create 0.5.1g - think this is due to large number of dependencies
 
 ## Known Compatibles
 * Better Foliage (not used because ResourcePacks do a better job)
