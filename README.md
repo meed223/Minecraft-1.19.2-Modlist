@@ -140,9 +140,11 @@ A list of mods I've tried, and found to not work. Some I may to attempt to get w
 * Tesseract (unknown)
 * Forestry: Community Edition (unknown)
 * Create 0.5.1g - think this is due to large number of dependencies
+  * Steam 'n' Rails 1.6.5 - think this is because it's updated to keep up with Create
 
 ## Known Compatibles
 * Better Foliage (not used because ResourcePacks do a better job)
+* Distant Horizons (2.2.1-a works at time of writing)
 
 ## The List (just IDs, for Ferium)
 ```
